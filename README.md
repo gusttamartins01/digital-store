@@ -4,5 +4,6 @@ E-commerce of shoes
 
 ## stacks
 
-HTML
-CSS
+- HTML
+- CSS
+- Figma

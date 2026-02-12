@@ -177,6 +177,7 @@
              line-height: 22px;
              letter-spacing: 0.25px;
              margin-bottom: 30px;
+             max-width: 307px;
           }
 
           ul {
@@ -212,13 +213,15 @@
        }
 
        .contact {
+         max-width: 281px;
+
           h2 {
              font-weight: 600;
              font-size: 18px;
              margin-bottom: 10px;
           }
 
-          address {
+          address, span {
              line-height: 31px;
           }
 
